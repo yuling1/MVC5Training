@@ -1,0 +1,35 @@
+﻿@using SportsStore.WebPortal.Models
+@using SportsStore.DB.Entities
+@model ProductListViewModel
+
+@{
+    ViewBag.Title = "PagedList";
+}
+
+@*@foreach (Product p in Model.Products)
+{
+    <div>
+        <h3>@p.Name</h3>
+        @p.Description
+        <h4>@p.Price</h4>
+    </div>
+}*@
+
+@foreach (Product p in Model.Products)
+{
+    <div class="well">
+        <h3>
+            <strong>@p.Name</strong>
+            <span class="pull-right label label-primary">@p.Price.ToString("c")</span>
+        </h3>
+        <span class="lead">
+            @p.Description
+        </span>
+    </div>
+}
+
+<nav>
+    <ul class="pagination">
+        @Html.PageLinks(Model.PagingInfo, pageIndex => Url.Action("PagedList", "Product", new { page = pageIndex }))
+    </ul>
+</nav>

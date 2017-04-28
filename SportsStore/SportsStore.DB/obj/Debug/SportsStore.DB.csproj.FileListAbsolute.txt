@@ -1,0 +1,10 @@
+C:\WorkRoot\GIT\Beyondsoft.Suzhou.OF\MVC5Training\SportsStore\SportsStore.DB\bin\Debug\SportsStore.DB.dll.config
+C:\WorkRoot\GIT\Beyondsoft.Suzhou.OF\MVC5Training\SportsStore\SportsStore.DB\bin\Debug\SportsStore.DB.dll
+C:\WorkRoot\GIT\Beyondsoft.Suzhou.OF\MVC5Training\SportsStore\SportsStore.DB\bin\Debug\SportsStore.DB.pdb
+C:\WorkRoot\GIT\Beyondsoft.Suzhou.OF\MVC5Training\SportsStore\SportsStore.DB\bin\Debug\EntityFramework.dll
+C:\WorkRoot\GIT\Beyondsoft.Suzhou.OF\MVC5Training\SportsStore\SportsStore.DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\WorkRoot\GIT\Beyondsoft.Suzhou.OF\MVC5Training\SportsStore\SportsStore.DB\bin\Debug\EntityFramework.xml
+C:\WorkRoot\GIT\Beyondsoft.Suzhou.OF\MVC5Training\SportsStore\SportsStore.DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\WorkRoot\GIT\Beyondsoft.Suzhou.OF\MVC5Training\SportsStore\SportsStore.DB\obj\Debug\SportsStore.DB.dll
+C:\WorkRoot\GIT\Beyondsoft.Suzhou.OF\MVC5Training\SportsStore\SportsStore.DB\obj\Debug\SportsStore.DB.pdb
+C:\WorkRoot\GIT\Beyondsoft.Suzhou.OF\MVC5Training\SportsStore\SportsStore.DB\obj\Debug\SportsStore.DB.csprojResolveAssemblyReference.cache

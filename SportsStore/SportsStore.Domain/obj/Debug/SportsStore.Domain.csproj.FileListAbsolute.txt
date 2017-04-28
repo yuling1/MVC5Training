@@ -1,0 +1,4 @@
+C:\WorkRoot\GIT\Beyondsoft.Suzhou.OF\MVC5Training\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\WorkRoot\GIT\Beyondsoft.Suzhou.OF\MVC5Training\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\WorkRoot\GIT\Beyondsoft.Suzhou.OF\MVC5Training\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\WorkRoot\GIT\Beyondsoft.Suzhou.OF\MVC5Training\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
